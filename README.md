@@ -112,7 +112,8 @@ Every project in this profile will aim to demonstrate all three.
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/islam-atef-hamed/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail)](islam.atef.hamed129@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail)](islam.atef.hamed129@gmail.com
+)
 
 ---
 
